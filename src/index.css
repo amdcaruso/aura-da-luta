@@ -8,6 +8,19 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+a.button {
+  background-color: blue;
+  color: #FFFFFF !important;
+  cursor: pointer;
+  display: inline-block;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 5px 8px;
+  text-align: center;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
